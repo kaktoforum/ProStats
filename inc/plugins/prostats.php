@@ -1233,7 +1233,7 @@ function ps_GetNewestPosts($NumOfRows, $feed=false)
 		$newestposts_cols_name = "";
 		$newestposts_cols = "";
 		$colspan = 0;
-		$active_cells = "";
+		$active_cells = [];
 
 		$latest_posts_cells_arr = escaped_explode(",", htmlspecialchars_uni($mybb->settings['ps_latest_posts_cells']),20);
 		
