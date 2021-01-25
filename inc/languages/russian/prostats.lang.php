@@ -12,10 +12,10 @@ $l['prostats_datetime'] = 'Число, дата';
 $l['prostats_forum'] = 'Форум';
 
 $l['prostats_latest_posts'] = 'Последние сообщения';
-$l['prostats_most_replies'] = 'Больше всего ответов';
-$l['prostats_most_reputations'] = 'Наивысшая репутация';
+$l['prostats_most_replies'] = 'Топ кол-ву ответов';
+$l['prostats_most_reputations'] = 'Топ по репутации';
 $l['prostats_most_thanks'] = 'Топ по благодарностям';
-$l['prostats_most_views'] = 'Самое просматриваемые';
+$l['prostats_most_views'] = 'Топ просмотров';
 $l['prostats_newest_members'] = 'Новые пользователи';
 $l['prostats_top_downloads'] = 'Самое скачиваемое';
 $l['prostats_top_posters'] = 'Топ писателей';
@@ -24,7 +24,7 @@ $l['prostats_top_topreferrers'] = 'Топ по рефералам';
 
 $l['prostats_topic'] = 'Тема';
 $l['prostats_author'] = 'Автор';
-$l['prostats_last_sender'] = 'Последний пославший';
+$l['prostats_last_sender'] = 'Последний написавший';
 $l['prostats_replies'] = 'Ответы';
 
 $l['prostats_views'] = 'Просмотры';
