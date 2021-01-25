@@ -12,7 +12,7 @@ $l['prostats_datetime'] = 'Число, дата';
 $l['prostats_forum'] = 'Форум';
 
 $l['prostats_latest_posts'] = 'Последние сообщения';
-$l['prostats_most_replies'] = 'Топ кол-ву ответов';
+$l['prostats_most_replies'] = 'Топ по кол-ву ответов';
 $l['prostats_most_reputations'] = 'Топ по репутации';
 $l['prostats_most_thanks'] = 'Топ по благодарностям';
 $l['prostats_most_views'] = 'Топ просмотров';
